@@ -663,7 +663,7 @@
               "hideCard": false,
               "animateLoading": true,
               "parentColumnSpace": 17.9375,
-              "leftColumn": 3,
+              "leftColumn": 0,
               "children": [
                 {
                   "boxShadow": "none",
@@ -729,7 +729,7 @@
               "key": "icyjzglgsw",
               "labelTextSize": "0.875rem",
               "backgroundColor": "#FFFFFF",
-              "rightColumn": 27,
+              "rightColumn": 24,
               "widgetId": "atph3w8ro0",
               "containerStyle": "card",
               "isVisible": true,
